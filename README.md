@@ -38,5 +38,5 @@ change
 
 
 
-also install the dataset folders found here
+also install the datasets are the zipped files, unzip and they are ready to use
 
